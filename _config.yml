@@ -51,3 +51,6 @@ defaults:
 
 # Paginate
 paginate: 10
+# This will require each of these plugins automatically.
+plugins:
+  - jekyll-admin
